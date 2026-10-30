@@ -9,5 +9,5 @@ function displayData(e)
 	let lName= document.getElementById("lName").value
 	let phone= document.getElementById("phone").value
 	let email= document.getElementById("email").value
- alert(`First Name: ${fName} LastName: ${lName} Phone Number: ${phone} Email ID: ${email}`)
+ alert(`First Name:${fName} Last Name:${lName} Phone Number:${phone} Email ID:${email}`)
 }
